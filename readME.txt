@@ -1,0 +1,1 @@
+For purpose of the video we didn't deploy FLUTTER APP on Android Device
